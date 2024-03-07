@@ -36,7 +36,7 @@ pip install -r requirements.txt
 Execute the following command to launch the Smart ATS application:
 
 ```bash
-streamlit run app.py
+streamlit run CareerPathPro.py
 ```
 
 This will open a local development server, and you can access the application in your web browser.
