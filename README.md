@@ -20,7 +20,10 @@ The main application file is built with Streamlit, providing users with the capa
 ## How to Use
 
 ### 1. Clone the Repository
-
+~~~
+git clone https://github.com/geeky-auro/CareerPath-Pro.git
+cd CareerPath-Pro
+~~~
 
 
 ### 2. Installation
